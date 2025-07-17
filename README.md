@@ -40,11 +40,3 @@ A GUI window named **"Turn Table"** will appear with the following options:
 - **Radius of Pivot**: Distance from the object to the camera
 
 Click **"Create Turntable"** to build the setup.
-
----
-
-## 📁 File Structure
-
-```plaintext
-turntable.py        # Main Python script to create the GUI and setup
-README.md           # Documentation file
